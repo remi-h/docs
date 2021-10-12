@@ -4,8 +4,8 @@ export default {
   titleSuffix: ' – Remi in Sweden',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">🇸🇪</span>
-      <span className="text-gray-600 font-normal hidden md:inline">
+      <span className="mr-2 font-extrabold md:inline">🇸🇪</span>
+      <span className="text-gray-600 font-normal md:inline">
         REMI in SWEDEN
       </span>
     </>
