@@ -6,7 +6,7 @@ export default {
     <>
       <span className="mr-2 font-extrabold md:inline">🇸🇪</span>
       <span className="text-gray-600 font-normal md:inline">
-        REMI in SWEDEN
+        🇸🇪
       </span>
     </>
   ),
