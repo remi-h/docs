@@ -1,12 +1,12 @@
 export default {
   github: 'https://github.com/remi-h/docs',
   docsRepositoryBase: 'https://github.com/remi-h/docs/main',
-  titleSuffix: ' – Remi in Sweden',
+  titleSuffix: ' – 🇸🇪',
   logo: (
     <>
       <span className="mr-2 font-extrabold md:inline">🇸🇪</span>
       <span className="text-gray-600 font-normal md:inline">
-        🇸🇪
+        🇸Remi in Sweden
       </span>
     </>
   ),
@@ -16,13 +16,13 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="ja" />
-      <meta name="description" content="慶應からスウェーデン王立工科大学へ交換留学。日常をまとめていく。" />
-      <meta name="og:description" content="スウェーデンに交換留学中の慶應生が、スウェーデンの暮らしや旅行、留学についてまとめているサイト。" />
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://remiinsweden.vercel.app/og.jpg" />
-      <meta name="twitter:url" content="https://remiinsweden.vercel.app/" />
-      <meta name="og:title" content="REMI in Sweden" />
-      <meta name="og:image" content="https://remiinsweden.vercel.app/og.jpg" />
+      <meta property="description" content="慶應からスウェーデン王立工科大学へ交換留学。日常をまとめていく。" />
+      <meta property="og:description" content="スウェーデンに交換留学中の慶應生が、スウェーデンの暮らしや旅行、留学についてまとめているサイト。" />
+      <meta property="twitter:card" content="summary_large_image" />
+      <meta property="twitter:image" content="https://remiinsweden.vercel.app/og.jpg" />
+      <meta property="twitter:url" content="https://remiinsweden.vercel.app/" />
+      <meta property="og:title" content="REMI in Sweden" />
+      <meta property="og:image" content="https://remiinsweden.vercel.app/og.jpg" />
       <meta name="apple-mobile-web-app-title" content="Remi🇸🇪" />
       <link
         rel="apple-touch-icon"
