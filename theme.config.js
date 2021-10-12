@@ -1,12 +1,12 @@
 export default {
   github: 'https://github.com/remi-h/docs',
   docsRepositoryBase: 'https://github.com/remi-h/docs/main',
-  titleSuffix: ' – 🇸🇪',
+  titleSuffix: ' – REMI',
   logo: (
     <>
       <span className="mr-2 font-extrabold md:inline">🇸🇪</span>
       <span className="text-gray-600 font-normal md:inline">
-        Remi
+        REMI in Stockholm
       </span>
     </>
   ),
