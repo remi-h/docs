@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  github: 'https://github.com/remi-h/docs',
+  docsRepositoryBase: 'https://github.com/remi-h/docs/main',
   titleSuffix: ' – Remi in Sweden',
   logo: (
     <>
