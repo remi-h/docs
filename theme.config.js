@@ -61,7 +61,7 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditLink: 'Edit this page on GitHub',
+  footerEditLink: false,
   footerText: <>MIT {new Date().getFullYear()} © REMI.</>,
   unstable_faviconGlyph: '🇸🇪',
 }
