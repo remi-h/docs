@@ -24,6 +24,7 @@ export default {
       <meta name="twitter:image" content="https://remiinsweden.vercel.app/og.jpg" />
       <meta name="twitter:url" content="https://remiinsweden.vercel.app/" />
       <meta name="apple-mobile-web-app-title" content="Remi🇸🇪" />
+      <meta name="google-site-verification" content="cjQqQ-GBrTIMjkLSTYKUDTfGOp8vZzyiQXn7XBsK1nE" />
       <link rel="stylesheet" href="style.css" />
       <link rel="preconnect" href="https://fonts.googleapis.com" />
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
