@@ -18,11 +18,11 @@ export default {
       <meta httpEquiv="Content-Language" content="ja" />
       <meta property="description" content="慶應からスウェーデン王立工科大学へ交換留学。日常をまとめていく。" />
       <meta property="og:description" content="スウェーデンに交換留学中の慶應生が、スウェーデンの暮らしや旅行、留学についてまとめているサイト。" />
-      <meta property="twitter:card" content="summary_large_image" />
-      <meta property="twitter:image" content="https://remiinsweden.vercel.app/og.jpg" />
-      <meta property="twitter:url" content="https://remiinsweden.vercel.app/" />
       <meta property="og:title" content="REMI in Sweden" />
       <meta property="og:image" content="https://remiinsweden.vercel.app/og.jpg" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:image" content="https://remiinsweden.vercel.app/og.jpg" />
+      <meta name="twitter:url" content="https://remiinsweden.vercel.app/" />
       <meta name="apple-mobile-web-app-title" content="Remi🇸🇪" />
       <link rel="stylesheet" href="style.css" />
       <link rel="preconnect" href="https://fonts.googleapis.com" />
