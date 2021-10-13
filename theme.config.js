@@ -24,6 +24,7 @@ export default {
       <meta property="og:title" content="REMI in Sweden" />
       <meta property="og:image" content="https://remiinsweden.vercel.app/og.jpg" />
       <meta name="apple-mobile-web-app-title" content="Remi🇸🇪" />
+      <link rel="stylesheet" href="style.css" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
