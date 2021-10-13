@@ -2,10 +2,11 @@
     font-family: "Noto Sans JP";
 }
 body{
-    border-top: 10px solid #1efad9;
+    
 }
 nav{
     box-shadow: none!important;
+    border-top: 10px solid #1efad9;
 }
 h1,h2,h3{
     font-weight: 500!important;
