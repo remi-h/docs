@@ -1,3 +1,12 @@
+*{
+    font-family: "Futura","Noto Sans JP";
+}
+h1,h2,h3{
+    font-weight: 100!important;
+}
+p{
+    margin-top: 5px!important;
+}
 img{
     max-height: 400px;
 }
